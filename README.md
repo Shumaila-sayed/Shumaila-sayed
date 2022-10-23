@@ -1,5 +1,15 @@
 ### Hello there 👋
 
+# heading 1
+## heading 2
+
+This is normal text
+This is **bold** text
+This is *italics* text
+
+~~this is my first idea~~
+This is new idea
+
 <!--
 **Shumaila-sayed/Shumaila-sayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
