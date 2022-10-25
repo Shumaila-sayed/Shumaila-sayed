@@ -13,3 +13,12 @@
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shumaila-sayed&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)                                                                                                          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shumaila-sayed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+#### :zap: Recent activity
+<!--START_SECTION:activity-->
+
+
+
+
+
+<!--END_SECTION:activity-->
