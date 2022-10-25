@@ -1,26 +1,12 @@
-### Hello there 👋
+![header](https://user-images.githubusercontent.com/107629121/197706347-d7785950-7d11-4394-b6aa-b047d5a35674.png)
 
-# heading 1
-## heading 2
+                      
+                    
+## I am self-learning and exploring web development. 
 
-This is normal text
-This is **bold** text
-This is *italics* text
-
-~~this is my first idea~~
-This is new idea
-
-<!--
-**Shumaila-sayed/Shumaila-sayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Currently learning Binary search algorithm
+ - Starting Javascript
+ - I'm also keen to contribute to open source
+ - I know basic HTML and CSS
+ - Any tips/help regrading above is appreciated
+ - You can connect with on [twitter](https://twitter.com/Heyyshum)
