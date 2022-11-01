@@ -9,13 +9,13 @@
  - I'm also keen to contribute to open source
  - I know basic Java, HTML and CSS
  - Any tips/help regrading above is appreciated
- - You can connect with on [twitter](https://twitter.com/Heyyshum)
+ - You can connect with me on [twitter](https://twitter.com/Heyyshum)
 
 
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shumaila-sayed&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shumaila-sayed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------ | ------------ |
 
-#### :zap: Recent activity
+<!-- #### :zap: Recent activity -->
 <!--START_SECTION:activity-->
 
 
