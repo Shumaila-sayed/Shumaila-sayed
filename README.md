@@ -9,8 +9,8 @@
  - I'm also keen to contribute to open source
  - I know basic Java, HTML and CSS
  - Any tips/help regrading above is appreciated
- - You can read my blogs [here](https://shumaila-sayed.hashnode.dev/)
- - You can connect with me on [twitter](https://twitter.com/Heyyshum)
+ - You can read my blogs [here.](https://shumaila-sayed.hashnode.dev/)
+ - Connect with me on [twitter](https://twitter.com/Heyyshum)
  
 
 
