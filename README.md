@@ -5,7 +5,7 @@
 ## I am self-learning and exploring web development. 
 
  - Currently learning Binary search algorithm
- - Starting Javascript
+ - Started learning Javascript
  - I'm also keen to contribute to open source
  - I know basic Java, HTML and CSS
  - Any tips/help regrading above is appreciated
