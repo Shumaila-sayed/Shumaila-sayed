@@ -4,7 +4,8 @@
                     
 ## I am self-learning and exploring web development. 
 
- - Currently learning DSA with Java.
+ - Currently learning DSA with Java
+ - Building websites using HTML and CSS
  - Started learning Javascript
  - I'm also keen to contribute to open source
  - I know basic Java, HTML and CSS
