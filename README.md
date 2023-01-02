@@ -11,17 +11,30 @@
  - I know basic Java, HTML and CSS
  - Any tips/help regrading above is appreciated
  - You can read my blogs [here.](https://shumaila-sayed.hashnode.dev/)
- - Connect with me on [twitter](https://twitter.com/Heyyshum)
+ - Connect with me on [twitter](https://twitter.com/Heyyshum) :v:
+
+
+ 
+ 
+ 
+
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shumaila-sayed&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shumaila-sayed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------ | ------------ |
+
+
+
 
 
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
- 
 
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shumaila-sayed&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shumaila-sayed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------ | ------------ |
+
+
+
+
+
 
 :sparkles: Recent activity
 <!--START_SECTION:activity-->
