@@ -12,8 +12,12 @@
  - Any tips/help regrading above is appreciated
  - You can read my blogs [here.](https://shumaila-sayed.hashnode.dev/)
  - Connect with me on [twitter](https://twitter.com/Heyyshum)
- 
 
+
+
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+ 
 
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shumaila-sayed&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shumaila-sayed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------ | ------------ |
