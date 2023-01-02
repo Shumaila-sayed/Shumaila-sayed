@@ -32,7 +32,8 @@ This year I coded my first "Hello, world!"
 I started my journey to learn web development with full preparation. I watched tons of videos on roadmaps, non-tech to tech, resources, "How to make it to FAANG in 3 months", etc. I, then, as a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-----------------------------
+
+-----------------------
  
  
 
