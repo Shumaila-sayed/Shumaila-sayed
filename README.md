@@ -18,6 +18,7 @@
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shumaila-sayed&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shumaila-sayed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------ | ------------ |
 
+:sparkles: Recent activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#15](https://github.com/Shumaila-sayed/hello-world/pull/15) in [Shumaila-sayed/hello-world](https://github.com/Shumaila-sayed/hello-world)
 2. 💪 Opened PR [#15](https://github.com/Shumaila-sayed/hello-world/pull/15) in [Shumaila-sayed/hello-world](https://github.com/Shumaila-sayed/hello-world)
