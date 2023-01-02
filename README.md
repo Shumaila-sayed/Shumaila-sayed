@@ -15,7 +15,19 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://shumaila-sayed.hashnode.dev//how-does-a-website-even-work" title="How does a website even work?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671874254184/ad7a350b-6459-489c-a983-75dc53a96433.png" alt="How does a website even work?" width="250px" align="left" /></a>
+<a href="https://shumaila-sayed.hashnode.dev//how-does-a-website-even-work" title="How does a website even work?"><strong>How does a website even work?</strong></a>
+<br/> Have you ever stopped to think about how websites work?
+When you type in a URL and hit "enter," it might seem like magic, but there's actually a lot that goes on behind the scenes to bring you the content you see on your screen.
 
+First, let's talk ab... </p> <br/> <br/>
+<p align="left">
+<a href="https://shumaila-sayed.hashnode.dev//lets-look-back-devretro" title="Let's look back...  #DevRetro"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/be133e77355a821242a6fcfad4b6d203.jpeg" alt="Let's look back...  #DevRetro" width="250px" align="left" /></a>
+<a href="https://shumaila-sayed.hashnode.dev//lets-look-back-devretro" title="Let's look back...  #DevRetro"><strong>Let's look back...  #DevRetro</strong></a>
+<br/> Hello, world!
+This year I coded my first "Hello, world!"
+I started my journey to learn web development with full preparation. I watched tons of videos on roadmaps, non-tech to tech, resources, "How to make it to FAANG in 3 months", etc. I, then, as a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
