@@ -31,6 +31,10 @@ I started my journey to learn web development with full preparation. I watched t
 <!-- HASHNODE_BLOG:END -->
 
 
+
+<p align="center"><a href="https://shumaila-sayed.hashnode.dev/"><img src="https://user-images.githubusercontent.com/51878265/210104338-3ffcc1b8-c966-405b-8958-7ece2e122723.png"></a></p>
+
+
  
  
  
@@ -47,17 +51,3 @@ I started my journey to learn web development with full preparation. I watched t
 <i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-
-
-
-
-
-
-:sparkles: Recent activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Shumaila-sayed/hello-world/pull/15) in [Shumaila-sayed/hello-world](https://github.com/Shumaila-sayed/hello-world)
-2. 💪 Opened PR [#15](https://github.com/Shumaila-sayed/hello-world/pull/15) in [Shumaila-sayed/hello-world](https://github.com/Shumaila-sayed/hello-world)
-3. 🎉 Merged PR [#14](https://github.com/Shumaila-sayed/hello-world/pull/14) in [Shumaila-sayed/hello-world](https://github.com/Shumaila-sayed/hello-world)
-4. 💪 Opened PR [#14](https://github.com/Shumaila-sayed/hello-world/pull/14) in [Shumaila-sayed/hello-world](https://github.com/Shumaila-sayed/hello-world)
-5. 💪 Opened PR [#1](https://github.com/Shumaila-sayed/LinkFree/pull/1) in [Shumaila-sayed/LinkFree](https://github.com/Shumaila-sayed/LinkFree)
-<!--END_SECTION:activity-->
