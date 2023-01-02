@@ -18,3 +18,8 @@
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shumaila-sayed&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shumaila-sayed&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------ | ------------ |
 
+ GH_USERNAME: Shumaila-sayed
+    COMMIT_MSG: :zap: Update README with the recent activity
+    MAX_LINES: 5
+  env:
+    GITHUB_TOKEN: ***
