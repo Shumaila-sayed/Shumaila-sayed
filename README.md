@@ -32,7 +32,7 @@ I started my journey to learn web development with full preparation. I watched t
 
 
 
-<p align="center"><a href="https://shumaila-sayed.hashnode.dev/"><img src="https://user-images.githubusercontent.com/51878265/210104338-3ffcc1b8-c966-405b-8958-7ece2e122723.png"></a></p>
+
 
 
  
