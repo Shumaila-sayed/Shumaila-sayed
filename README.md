@@ -2,7 +2,7 @@
 
                       
                     
-## I am self-learning and exploring web development. 
+## I am self taught web developer. 
 
  - Currently learning DSA with Java
  - Building websites using HTML and CSS
