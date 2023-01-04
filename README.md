@@ -2,13 +2,13 @@
 
                       
                     
-## I am self taught web developer. 
+## I am self taught front-end developer. 
 
- - Currently learning DSA with Java
- - Building websites using HTML and CSS
+ - Currently learning DSA with Java ✍️
+ - Building websites using HTML and CSS 💻
  - Started learning Javascript
- - I know basic Java, HTML and CSS
  - Any tips/help regrading above is appreciated
+ - I love anime #otaku❤️
  - Connect with me on [twitter](https://twitter.com/Heyyshum) :v:
 
 ------------------
