@@ -2,7 +2,7 @@
 
                       
                     
-## I am self taught front-end developer. 
+## Hey there, I am self taught front-end developer. 
 
  - Currently learning DSA with Java ✍️
  - Building websites using HTML and CSS 💻
