@@ -5,7 +5,7 @@
 ## Hey there, I am self taught front-end developer. 
 
  - Currently learning DSA with Java ✍️
- - Building websites using HTML and CSS 💻
+ - Building stuffs using HTML and CSS 💻
  - Started learning Javascript
  - Any tips/help regrading above is appreciated
  - I love anime #otaku❤️
