@@ -46,6 +46,6 @@ I started my journey to learn web development with full preparation. I watched t
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   ❞</i>
+<i>❝“On two occasions I have been asked, ‘If you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”— Charles Babbage   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
