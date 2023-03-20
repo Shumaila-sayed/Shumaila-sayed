@@ -46,6 +46,6 @@ I started my journey to learn web development with full preparation. I watched t
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  ❞</i>
+<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
