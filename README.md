@@ -46,6 +46,6 @@ I started my journey to learn web development with full preparation. I watched t
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
+<i>❝“It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.”— Steve McConnell   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
