@@ -46,6 +46,6 @@ I started my journey to learn web development with full preparation. I watched t
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Approximately 70% of virus writers are said to work under contract for organized crime syndicates.❞</i>
+<i>❝HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
