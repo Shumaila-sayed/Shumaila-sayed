@@ -7,6 +7,7 @@
  - Currently learning Javascript ✍️
  - Building stuffs using HTML, CSS and Vanilla Js 💻
  - Any tips/help regrading above is appreciated
+ - Check out my pinned repositories
  - Connect with me on [X](https://twitter.com/Heyyshum) :v:
 
 ------------------
