@@ -5,10 +5,9 @@
 ## Hey there, I am self taught front-end developer. 
 
  - Currently learning Javascript ✍️
- - Building stuffs using HTML and CSS 💻
+ - Building stuffs using HTML, CSS and Vanilla Js 💻
  - Any tips/help regrading above is appreciated
- - I love anime #otaku❤️
- - Connect with me on [twitter](https://twitter.com/Heyyshum) :v:
+ - Connect with me on [X](https://twitter.com/Heyyshum) :v:
 
 ------------------
 
