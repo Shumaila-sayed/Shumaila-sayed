@@ -1,5 +1,3 @@
-![header](https://user-images.githubusercontent.com/107629121/197706347-d7785950-7d11-4394-b6aa-b047d5a35674.png)
-
 # 💫 About Me:
 🔭 Currently learning JavaScript<br>🌱 Building stuffs using HTML, CSS and JavaScript<br>🤝 Any tips/help regrading above is appreciated<br>💬 Check out my pinned repositories<br>⚡ Fun Fact: I love Anime and Manga
 
