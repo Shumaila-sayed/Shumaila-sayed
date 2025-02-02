@@ -10,9 +10,9 @@ Currently looking for a **Frontend Developer internship** to apply my skills and
 - **Version Control & Collaboration:** Git, GitHub  
 
 ## 📌 Projects  
-🔹 **[TaskBoard](https://github.com/Shumaila-sayed/TaskBoard)** – A to-do list app with projects, priorities, and local storage.  
-🔹 **[Weather Node](https://github.com/Shumaila-sayed/Weather-Node)** – A weather app with API integration and dynamic UI changes.  
-🔹 **[Foodie](https://github.com/Shumaila-sayed/Foodie)** – A burger-ordering web app with an interactive UI.  
+🔹 **[BattleShip Game](https://github.com/Shumaila-sayed/Battleship-Game)** - built using JavaScript and Test-Driven Development (TDD) principles.   
+🔹 **[TaskBoard](https://github.com/Shumaila-sayed/Todo-List)** – A to-do list app with projects, priorities, and local storage.  
+🔹 **[Weather Node](https://github.com/Shumaila-sayed/WeatherNode)** – A weather app with API integration and dynamic UI changes.  
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shumaila-sayed-520a1321a/)  
