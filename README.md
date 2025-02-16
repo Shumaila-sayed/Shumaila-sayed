@@ -11,8 +11,8 @@ Currently looking for a **Frontend Developer internship** to apply my skills and
 
 ## 📌 Projects  
 🔹 **[BattleShip Game](https://github.com/Shumaila-sayed/Battleship-Game)** - built using JavaScript and Test-Driven Development (TDD) principles.   
-🔹 **[TaskBoard](https://github.com/Shumaila-sayed/Todo-List)** – A to-do list app with projects, priorities, and local storage.  
-🔹 **[Weather Node](https://github.com/Shumaila-sayed/WeatherNode)** – A weather app with API integration and dynamic UI changes.  
+🔹 **[ChatBot](https://github.com/Shumaila-sayed/chatbot)** - A Chabot with API integration, file upload feature and remembers chat history.     
+🔹 **[TaskBoard](https://github.com/Shumaila-sayed/Todo-List)** – A to-do list app with projects, priorities, and local storage.   
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shumaila-sayed-520a1321a/)  
