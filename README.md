@@ -1,21 +1,30 @@
 # 👋 Hi, I'm Shumaila Sayed!  
 
-🚀 I am **Frontend Developer** passionate about crafting responsive and user-friendly web experiences.  
-Currently looking for a **Frontend Developer internship** to apply my skills and grow as a developer.  
+**Frontend Developer** skilled in building responsive, user-friendly, and visually engaging web applications.    
+Proficient in HTML, CSS, JavaScript, React, Tailwindcss and modern frontend tools.   
+Currently seeking a Frontend Developer position to apply my skills, contribute to real-world projects, and grow within a dynamic team.    
+Ready to bring creativity, problem-solving, and a keen eye for detail to your team.
 
-## 🔧 Technologies & Tools  
-- **Languages:** HTML, CSS, JavaScript  
-- **Tools & Frameworks:** ReactJs, Tailwindcss, Git, GitHub, Webpack, Jest, Babel, NPM  
-- **Deployment & Hosting:** Netlify, Vercel
-- **Version Control & Collaboration:** Git, GitHub  
 
-## 📌 Projects  
-🔹 **[BattleShip Game](https://github.com/Shumaila-sayed/Battleship-Game)** - built using JavaScript and Test-Driven Development (TDD) principles.   
-🔹 **[ChatBot](https://github.com/Shumaila-sayed/chatbot)** - A Chabot with API integration, file upload feature and remembers chat history.     
-🔹 **[TaskBoard](https://github.com/Shumaila-sayed/Todo-List)** – A to-do list app with projects, priorities, and local storage.   
+**Long Story Short:**   
+ -> I create websites.    
+ -> I am open to work as a junior or an intern.
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shumaila-sayed-520a1321a/)  
+## 🔧 Technologies & Tools I am familiar with 
+- **Frontend:**  HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Build & Testing:** Webpack, Jest, Babel, npm
+- **Deployment:** Netlify, Vercel
+- **Version Control:** Git, GitHub  
+
+## 📌 Projects I have built
+🔹 **[AniMemo](https://github.com/Shumaila-sayed/AniMemo)** - an anime-themed memory game built with React, where every click shuffles the deck.   
+🔹 **[Movie App](https://github.com/Shumaila-sayed/FilmHub)** -  built with React, TailwindCSS, and Appwrite that lets users explore trending and popular movies.   
+🔹 **[ChatBot](https://github.com/Shumaila-sayed/chatbot)** - built with API integration, file upload feature and remembers chat history.  
+🔹 **[BattleShip Game](https://github.com/Shumaila-sayed/Battleship-Game)** - built using JavaScript and Test-Driven Development (TDD) principles.  
+ 
+
+## 📫 Find me here!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shumaila-sayed-520a1321a/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Heyyshum)  
 
 💡 *Always eager to learn, build, and collaborate!*  
