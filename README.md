@@ -5,8 +5,8 @@ Currently looking for a **Frontend Developer internship** to apply my skills and
 
 ## 🔧 Technologies & Tools  
 - **Languages:** HTML, CSS, JavaScript  
-- **Tools & Frameworks:** Git, GitHub, Webpack, Jest, Babel, NPM  
-- **Deployment & Hosting:** Netlify  
+- **Tools & Frameworks:** ReactJs, Tailwindcss, Git, GitHub, Webpack, Jest, Babel, NPM  
+- **Deployment & Hosting:** Netlify, Vercel
 - **Version Control & Collaboration:** Git, GitHub  
 
 ## 📌 Projects  
