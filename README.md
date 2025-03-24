@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shumaila Sayed!  
 
 **Frontend Developer** skilled in building responsive, user-friendly, and visually engaging web applications.    
-Proficient in HTML, CSS, JavaScript, React, Tailwindcss and modern frontend tools.   
+Proficient in HTML, CSS, JavaScript, React.js, Tailwind CSS and modern frontend tools.   
 Currently seeking a Frontend Developer position to apply my skills, contribute to real-world projects, and grow within a dynamic team.    
 Ready to bring creativity, problem-solving, and a keen eye for detail to your team.
 
