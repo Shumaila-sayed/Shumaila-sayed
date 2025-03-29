@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shumaila Sayed!  
+# Hi, I'm Shumaila Sayed!  
 
 **Frontend Developer** skilled in building responsive, user-friendly, and visually engaging web applications.    
 Proficient in HTML, CSS, JavaScript, React.js, Tailwind CSS and modern frontend tools.   
@@ -24,7 +24,7 @@ Ready to bring creativity, problem-solving, and a keen eye for detail to your te
  
 
 ## 📫 Find me here!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shumaila-sayed-520a1321a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shumaila-sayed-520a1321a/)    
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Heyyshum)  
 
 💡 *Always eager to learn, build, and collaborate!*  
