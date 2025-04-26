@@ -8,7 +8,7 @@ Ready to bring creativity, problem-solving, and a keen eye for detail to your te
 
 **Long Story Short:**   
  -> I create websites.    
- -> I am open to work as a junior or an intern.
+ -> I am open to work.
 
 ## 🔧 Technologies & Tools I am familiar with 
 - **Frontend:**  HTML, CSS, JavaScript, React.js, Tailwind CSS  
