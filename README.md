@@ -1,6 +1,6 @@
 # Hi, I'm Shumaila Sayed!  
 
-**Frontend Developer** skilled in building responsive, user-friendly, and visually engaging web applications.    
+I am a **Frontend Developer** skilled in building responsive, user-friendly, and visually engaging web applications.    
 Proficient in HTML, CSS, JavaScript, React.js, Tailwind CSS and modern frontend tools.   
 Currently seeking a Frontend Developer position to apply my skills, contribute to real-world projects, and grow within a dynamic team.    
 Ready to bring creativity, problem-solving, and a keen eye for detail to your team.
@@ -11,12 +11,13 @@ Ready to bring creativity, problem-solving, and a keen eye for detail to your te
  -> I am open to work.
 
 ## 🔧 Technologies & Tools I am familiar with 
-- **Frontend:**  HTML, CSS, JavaScript, React.js, Tailwind CSS  
-- **Build & Testing:** Webpack, Jest, Babel, npm
+- **Frontend:**  HTML, CSS, JavaScript, React.js, Tailwind CSS,  React Router  
+- **Build & Testing:** Webpack, Jest, Vitest, React testing library, Babel, npm
 - **Deployment:** Netlify, Vercel
 - **Version Control:** Git, GitHub  
 
 ## 📌 Projects I have built
+🔹 **[Affordrobe](https://github.com/Shumaila-sayed/Affordrobe)** - an e-commerce site which let users to browse products, manage a shopping cart, and is a SPA.    
 🔹 **[AniMemo](https://github.com/Shumaila-sayed/AniMemo)** - an anime-themed memory game built with React, where every click shuffles the deck.   
 🔹 **[Movie App](https://github.com/Shumaila-sayed/FilmHub)** -  built with React, TailwindCSS, and Appwrite that lets users explore trending and popular movies.   
 🔹 **[ChatBot](https://github.com/Shumaila-sayed/chatbot)** - built with API integration, file upload feature and remembers chat history.  
