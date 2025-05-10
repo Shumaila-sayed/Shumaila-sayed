@@ -5,7 +5,6 @@ Proficient in HTML, CSS, JavaScript, React.js, Tailwind CSS and modern frontend 
 Currently seeking a Frontend Developer position to apply my skills, contribute to real-world projects, and grow within a dynamic team.    
 Ready to bring creativity, problem-solving, and a keen eye for detail to your team.
 
-
 **Long Story Short:**   
  -> I create websites.    
  -> I am open to work.
