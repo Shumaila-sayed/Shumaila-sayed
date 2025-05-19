@@ -10,8 +10,8 @@ Ready to bring creativity, problem-solving, and a keen eye for detail to your te
  -> I am open to work.
 
 ## 🔧 Technologies & Tools I am familiar with 
-- **Frontend:**  HTML, CSS, JavaScript, React.js, Tailwind CSS,  React Router  
-- **Build & Testing:** Webpack, Jest, Vitest, React testing library, Babel, npm
+- **Frontend:** React.js, Tailwind CSS, JavaScript, React Router, HTML, CSS  
+- **Build & Testing:** Webpack, Vite, Jest, Vitest, React testing library, Babel
 - **Deployment:** Netlify, Vercel
 - **Version Control:** Git, GitHub  
 
