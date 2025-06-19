@@ -20,7 +20,6 @@ Ready to bring creativity, problem-solving, and a keen eye for detail to your te
 🔹 **[AniMemo](https://github.com/Shumaila-sayed/AniMemo)** - an anime-themed memory game built with React, where every click shuffles the deck.   
 🔹 **[Movie App](https://github.com/Shumaila-sayed/FilmHub)** -  built with React, TailwindCSS, and Appwrite that lets users explore trending and popular movies.   
 🔹 **[ChatBot](https://github.com/Shumaila-sayed/chatbot)** - built with API integration, file upload feature and remembers chat history.  
-🔹 **[BattleShip Game](https://github.com/Shumaila-sayed/Battleship-Game)** - built using JavaScript and Test-Driven Development (TDD) principles.  
  
 
 ## 📫 Find me here!  
