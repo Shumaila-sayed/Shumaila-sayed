@@ -11,7 +11,7 @@ Ready to bring creativity, problem-solving, and a keen eye for detail to your te
 
 ## 🔧 Technologies & Tools I am familiar with 
 - **Frontend:** React.js, Tailwind CSS, JavaScript, TypeScript, React Router, HTML, CSS
-- **Backend:** Node.js, Expressjs, ejs
+- **Backend:** Node.js, Express.js, ejs
 - **Database:** PostgreSQL, MySQL
 - **Build & Testing:** Webpack, Vite, Jest, Vitest, React testing library, Babel
 - **Deployment:** Netlify, Vercel, Railway
